@@ -19,10 +19,11 @@
 
 
 ### Vue
-![Static Badge](https://img.shields.io/badge/Vue-%2341B96F) ![Static Badge](https://img.shields.io/badge/Vuex-%233E9245) ![Static Badge](https://img.shields.io/badge/Vuetify-%2375BF7C)
+![Static Badge](https://img.shields.io/badge/Vue-%2341B96F) ![Static Badge](https://img.shields.io/badge/Vuex-%233E9245) ![Static Badge](https://img.shields.io/badge/Nuxt-%23DF59D) ![Static Badge](https://img.shields.io/badge/Vuetify-%2375BF7C)
 
 
 
+- Nuxt3을 활용한 SSR 프로젝트 경험이 있습니다.
 - Vuex로 mutation,action을 활용한 state 변경, api 통신을 할 수 있습니다.
 - Vue의 라이프 사이클을 활용할 수 있습니다.
 - Vuetify 를 활용할 수 있습니다.
@@ -38,9 +39,10 @@
 - gulp 빌드 툴을 사용할 수 있습니다.
 
 ### 사용하는 툴
-- VSCode
+- VSCode / Webstorm
 - Postman
 - Swagger
+- Insomnia
 - Notion
 - Slack
 - Figma
